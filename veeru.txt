@@ -1,3 +1,11 @@
 dsdhfhfhgf
+<<<<<<< HEAD
 hkkkllll
 hhhhhhhh
+=======
+hhdkfhdfog
+kflddlggg
+fglflhh;hhgl;
+blcfllh
+
+>>>>>>> master
